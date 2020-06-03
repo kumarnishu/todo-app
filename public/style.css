@@ -1,0 +1,22 @@
+*{
+    font-size: 20px;
+}
+#container ul{
+list-style-type: none;
+}
+
+#container ul li{
+    width: 200px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    color:white;
+    background-color: black;
+}
+#container ul li:hover{
+    width: 200px;
+    padding: 10px;
+    color:white;
+    background-color: red;
+}
